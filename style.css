@@ -1,0 +1,44 @@
+
+#screen{
+  width: 85%;
+  height: 50px;
+  margin-left: 25px;
+  margin-top: 30px;
+  pointer-events: none;
+  font-size: 30px;
+  text-align: right;
+}
+.btn{
+  width: 70px;
+  height:50px;
+  background: white;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 70px;
+  border-radius: 80px;
+  border: solid 5px;
+  border-color: black;
+}
+.clr-btn{
+  width: 70px;
+  height:50px;
+  background: white;
+  font-size: 30px;
+  margin-left: 113px;
+  margin-top: 75px;
+  border-radius: 80px;
+  border: solid 5px;
+  border-color: black;
+  color: red;
+}
+.del-btn{
+  width: 70px;
+  height:50px;
+  background: white;
+  font-size: 30px;
+  margin-left: 205px;
+  margin-top: 75px;
+  border-radius: 80px;
+  border: solid 5px;
+  border-color: black;
+}
